@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=tailwind_webpack_docker
+POSTGRES_USER=hhAufDTMCDBbARHBUTMZqUhxMDQebQrY
+POSTGRES_PASSWORD=lMp8NpCqYpNAqlGcVmINxqM10kTyzj1We45CRNYDxEEACDpll9lLeE8GUZK0KheO
