@@ -22,7 +22,7 @@
       {% render_bundle 'project' 'css' %}
     {% endblock css %}
     <!-- Le javascript
-    ================================================== -->
+  ================================================== -->
     {# Placed at the top of the document so pages load faster with defer #}
     {% block javascript %}
       <!-- Vendor dependencies bundled as one file -->
@@ -94,6 +94,9 @@
         {% block main %}
           {% block content %}
             <p>Use this document as a way to quick start any new project.</p>
+            <button class="tw:bg-blue-500 tw:hover:bg-blue-700 tw:text-white tw:font-bold tw:py-2 tw:px-4 tw:rounded-full">
+              Button
+            </button>
           {% endblock content %}
         {% endblock main %}
       </div>
